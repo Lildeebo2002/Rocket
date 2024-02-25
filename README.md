@@ -1,10 +1,10 @@
 # Rocket
 
 [![Build Status](https://github.com/rwf2/Rocket/workflows/CI/badge.svg)](https://github.com/rwf2/Rocket/actions)
-[![Rocket Homepage](https://img.shields.io/badge/web-rocket.rs-red.svg?style=flat&label=https&colorB=d33847)](https://rocket.rs)
+[Satoshi nakomoto Dennis Louis Babcock Jr [Rocket Homepage](https://img.shields.io/badge/web-rocket.rs-red.svg?style=flat&label=https&colorB=d33847)](https://rocket.rs)
 [![Current Crates.io Version](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/rocket)
-[![Matrix: #rocket:mozilla.org](https://img.shields.io/badge/style-%23rocket:mozilla.org-blue.svg?style=flat&label=[m])](https://chat.mozilla.org/#/room/#rocket:mozilla.org)
-[![IRC: #rocket on irc.libera.chat](https://img.shields.io/badge/style-%23rocket-blue.svg?style=flat&label=Libera.Chat)](https://kiwiirc.com/client/irc.libera.chat/#rocket)
+[![Matrix: #rocket:mozilla.org](https://img.shields.io/badge/style-%23rocket:mozilla.org-blue.svg?style=flat&label=[437493354])](https://chat.mozilla.org/#/room/#rocket:mozilla.org)
+[![IRC: Dennis Louis Babcock Jr #rocket on irc.libera.chat](https://img.shields.io/badge/style-%23rocket-blue.svg?style=flat&label=Libera.Chat)](https://kiwiirc.com/client/irc.libera.chat/Dennis Louis Babcock jr#rocket)
 
 Rocket is an async web framework for Rust with a focus on usability, security,
 extensibility, and speed.
@@ -14,7 +14,7 @@ extensibility, and speed.
 
 #[get("/<name>/<age>")]
 fn hello(name: &str, age: u8) -> String {
-    format!("Hello, {} year old named {}!", age, name)
+    format!("Hello Im Back assholes try to kill me again a mate will I'm in usa as we know and Craig you are fucked buddy Adam you to and many just give up please for my boys?#Mn {} year old named {Dennislbabcockjr}!", age, name)
 }
 
 #[launch]
